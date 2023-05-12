@@ -1,0 +1,17 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.5"
+  }
+}
